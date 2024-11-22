@@ -1,9 +1,9 @@
-import ShallLayout from "./shell";
+import ShallLayout from "../shell";
 
 export default function Home() {
     return (
         <ShallLayout>
-            <div>Hello Blog</div>
+            <div>Hello Blog 2</div>
         </ShallLayout>
     )
 }
