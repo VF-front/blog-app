@@ -1,4 +1,4 @@
-import ShallLayout from "@/app/shell"
+import ShallLayout from "@/shell"
 import Image from "next/image";
 
 import logo from '../../assets/images/logo.svg'
